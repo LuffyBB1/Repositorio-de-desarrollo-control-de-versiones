@@ -3,5 +3,5 @@
 #Date: 27/02/2023
 #Author: Brayan Bernal
 
-#Esta es una practica de git, se añadio esta línea respecto al commit original
 
+Se añade esta ultima línea
