@@ -8,6 +8,7 @@ git push: mandar cambios a un servidor remoto.
 git fetch: traer actualizaciones del servidor remoto y guardarlas en nuestro repositorio local.
 git merge: tiene dos usos. Uno es la fusión de ramas, funcionando como un commit en la rama actual, trayendo la rama indicada. Su otro uso es guardar los cambios de un servidor remoto en nuestro directorio.
 git pull: fetch y merge al mismo tiempo.
+
 Comandos para corrección en GitHub
 git checkout “codigo de version” “nombre del archivo”: volver a la última versión de la que se ha hecho commit.
 git reset: vuelve al pasado sin posibilidad de volver al futuro, se debe usar con especificaciones.
@@ -17,6 +18,8 @@ git reset HEAD: saca los cambios de staging, pero no los borra. Es lo opuesto a 
 git rm: elimina los archivos, pero no su historial. Si queremos recuperar algo, solo hay que regresar. se utiliza así:
 git rm --cached elimina los archivos en staging pero los mantiene en el disco duro.
 git rm --force elimina los archivos de git y del disco duro.
+
+
 Comandos para revisión y comparación en GitHub
 git status: estado de archivos en el repositorio.
 git log: historia entera del archivo.
