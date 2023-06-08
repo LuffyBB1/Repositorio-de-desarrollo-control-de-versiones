@@ -3,3 +3,5 @@
 #Date: 27/02/2023
 #Author: Brayan Bernal
 
+Se volvio en el tiempo y se borró absolutamente todo lo que se tenía antes, 
+se realizó un git reset 'log number' --hard, que me devolvió a ese commit como tal. 
