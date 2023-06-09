@@ -5,3 +5,5 @@
 
 Se volvio en el tiempo y se borró absolutamente todo lo que se tenía antes, 
 se realizó un git reset 'log number' --hard, que me devolvió a ese commit como tal. 
+
+Ahora añadimos esta línea para posteriormente hacer un git reset solo a este archivo y debería borrar solo esta línea
